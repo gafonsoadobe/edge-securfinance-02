@@ -1,5 +1,5 @@
 mountpoints:
   /: 
-    url: https://author-p80952-e699446.adobeaemcloud.com/bin/franklin.delivery/gafonsoadobe/edge-securfinance-02/blob/main/
+    url: https://author-p80952-e699446.adobeaemcloud.com/bin/franklin.delivery/gafonsoadobe/securbankgafonso/blob/main/
     type: markup
     suffix: ".html?wcmmode=disabled"
